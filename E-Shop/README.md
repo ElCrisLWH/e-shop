@@ -4,7 +4,7 @@ This README will present the subject, the code and how to run it.
 
 This is an e-shop with a list of 6 products (with their name, price, image, availability and "Add to cart" button) fetched from the backend and displayed in the frontend, along with a cart in which you can see items added to cart, remove them and see the total price of the cart. 
 
-<img width="1438" alt="image" src="https://user-images.githubusercontent.com/48725727/118649510-de4d5000-b7e3-11eb-8da9-9c298d05402d.png">
+<img width="1438" alt="image" src="e-shop.png">
 
 ## The code
 
